@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: kazino-ot-50-rubley-s-bystrym-vyvodom.github.io
+Sitemap: https://kazino-ot-50-rubley-s-bystrym-vyvodom.github.io/sitemap.xml
